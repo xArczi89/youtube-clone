@@ -1,0 +1,30 @@
+.sidebar {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    width: 70px;
+    text-align: center;
+
+    background-color: white;
+    border-right-width: 1px;
+    border-right-style: solid;
+    border-right-color: rgb(228, 228, 228)
+}
+
+.sidebar-icons {
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 30px;
+    margin-left: 5px;
+}
+
+.sidebar-link:hover {
+    background-color: rgb(211, 211, 211);
+}
+
+
+.sidebar-descriptions {
+    font-size: 11px;
+}
